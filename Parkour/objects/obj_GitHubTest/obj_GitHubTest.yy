@@ -2,7 +2,7 @@
     "id": "e69bb175-f416-460f-adcf-9ab83d25cca3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_GitHub",
+    "name": "obj_GitHubTest",
     "eventList": [
         {
             "id": "01b3fe07-6bb5-4084-af17-631f6c24e8f3",
